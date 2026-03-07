@@ -8867,7 +8867,7 @@
     "ill": "SEGA (祈莲 modified)",
     "chapter": "Maimai",
     "ez": {
-      "level": "6.0",
+      "level": "7.5",
       "notes": 363,
       "tap": 128,
       "drag": 157,
@@ -8909,7 +8909,7 @@
     "ill": "SEGA (祈莲 modified)",
     "chapter": "Maimai",
     "ez": {
-      "level": "7.5",
+      "level": "7.0",
       "notes": 296,
       "tap": 192,
       "drag": 31,
@@ -9365,7 +9365,7 @@
     "ill": "©2026 Rayark Inc. CYTUS II®",
     "chapter": "Cytus2",
     "ez": {
-      "level": "6.0",
+      "level": "7.0",
       "notes": 521,
       "tap": 79,
       "drag": 294,
@@ -9374,7 +9374,7 @@
       "charter": "【梦之起始】爬爬 vs. 盐"
     },
     "hd": {
-      "level": "12.5",
+      "level": "12.1",
       "notes": 1141,
       "tap": 476,
       "drag": 482,
@@ -9383,7 +9383,7 @@
       "charter": "E00200"
     },
     "in": {
-      "level": "16.4",
+      "level": "16.2",
       "notes": 1648,
       "tap": 745,
       "drag": 601,
@@ -9398,7 +9398,7 @@
     "ill": "©2026 Rayark Inc. CYTUS II®",
     "chapter": "Cytus2",
     "ez": {
-      "level": "7.0",
+      "level": "6.0",
       "notes": 378,
       "tap": 114,
       "drag": 172,
@@ -9407,7 +9407,7 @@
       "charter": "爬爬"
     },
     "hd": {
-      "level": "12.1",
+      "level": "12.5",
       "notes": 817,
       "tap": 398,
       "drag": 320,
@@ -9416,7 +9416,7 @@
       "charter": "凛"
     },
     "in": {
-      "level": "16.2",
+      "level": "16.4",
       "notes": 1439,
       "tap": 810,
       "drag": 452,
@@ -9489,6 +9489,72 @@
       "hold": 141,
       "flick": 108,
       "charter": "MOTION 464.237"
+    }
+  },
+  "Xenophobia.XinG": {
+    "name": "Xenophobia",
+    "composer": "XinG",
+    "ill": "Ots-15",
+    "chapter": "Single",
+    "ez": {
+      "level": "6.5",
+      "notes": 366,
+      "tap": 192,
+      "drag": 117,
+      "hold": 45,
+      "flick": 12,
+      "charter": "Skuwo"
+    },
+    "hd": {
+      "level": "12.7",
+      "notes": 873,
+      "tap": 355,
+      "drag": 395,
+      "hold": 61,
+      "flick": 62,
+      "charter": "Skuwo"
+    },
+    "in": {
+      "level": "14.9",
+      "notes": 1562,
+      "tap": 656,
+      "drag": 710,
+      "hold": 117,
+      "flick": 79,
+      "charter": "Skuwo"
+    }
+  },
+  "Verruckt.Raimukun": {
+    "name": "Verrückt",
+    "composer": "Raimukun",
+    "ill": "AiLANE",
+    "chapter": "Single",
+    "ez": {
+      "level": "7.0",
+      "notes": 273,
+      "tap": 189,
+      "drag": 58,
+      "hold": 15,
+      "flick": 11,
+      "charter": "Magazet"
+    },
+    "hd": {
+      "level": "12.6",
+      "notes": 621,
+      "tap": 406,
+      "drag": 155,
+      "hold": 35,
+      "flick": 25,
+      "charter": "Magazet"
+    },
+    "in": {
+      "level": "16.5",
+      "notes": 1285,
+      "tap": 837,
+      "drag": 398,
+      "hold": 50,
+      "flick": 0,
+      "charter": "Salt"
     }
   },
   "Poseidon.1112vsStar": {

@@ -6,6 +6,26 @@
     "cover": "Single",
     "songs": [
       {
+        "id": "Verruckt.Raimukun.0",
+        "name": "Verrückt",
+        "difficulty": [
+          "7.0",
+          "12.6",
+          "16.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Xenophobia.XinG.0",
+        "name": "Xenophobia",
+        "difficulty": [
+          "6.5",
+          "12.7",
+          "14.9",
+          "0"
+        ]
+      },
+      {
         "id": "ABYSSMOTION192333.ariiolTSAR奏Sou.0",
         "name": "ABYSS MOTION 192.333",
         "difficulty": [
@@ -2122,9 +2142,9 @@
         "id": "Incyde.YbeLL.0",
         "name": "Incyde",
         "difficulty": [
-          "6.0",
-          "12.5",
-          "16.4",
+          "7.0",
+          "12.1",
+          "16.2",
           "0"
         ]
       },
@@ -2132,9 +2152,9 @@
         "id": "彩.MisoilePunch.0",
         "name": "彩",
         "difficulty": [
-          "7.0",
-          "12.1",
-          "16.2",
+          "6.0",
+          "12.5",
+          "16.4",
           "0"
         ]
       }
@@ -2208,7 +2228,7 @@
         "id": "slips.rintarosoma.0",
         "name": "sølips",
         "difficulty": [
-          "6.0",
+          "7.5",
           "12.8",
           "16.0",
           "16.8"
@@ -2218,7 +2238,7 @@
         "id": "QZKagoRequiem.tpazolite.0",
         "name": "QZKago Requiem",
         "difficulty": [
-          "7.5",
+          "7.0",
           "13.3",
           "16.3",
           "17.4"
