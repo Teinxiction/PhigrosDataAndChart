@@ -3,7 +3,7 @@
     "name": "Glaciaxion",
     "composer": "SunsetRay",
     "ill": "艾若拉",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "1.0",
       "notes": 66,
@@ -36,7 +36,7 @@
     "name": "Eradication Catastrophe",
     "composer": "NceS",
     "ill": "海产",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "3.5",
       "notes": 181,
@@ -69,7 +69,7 @@
     "name": "Credits",
     "composer": "Frums",
     "ill": "Ctymax",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "4.5",
       "notes": 188,
@@ -111,7 +111,7 @@
     "name": "Dlyrotz",
     "composer": "Likey",
     "ill": "DoublePian",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "4.0",
       "notes": 398,
@@ -144,7 +144,7 @@
     "name": "Engine x Start!! (melody mix)",
     "composer": "CrossingSound",
     "ill": "赤芽",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "2.5",
       "notes": 75,
@@ -177,7 +177,7 @@
     "name": "光",
     "composer": "姜米條",
     "ill": "winder",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "2.0",
       "notes": 138,
@@ -210,7 +210,7 @@
     "name": "Winter ↑cube↓",
     "composer": "Ctymax feat. NceS",
     "ill": "翠冷兮",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "3.5",
       "notes": 306,
@@ -243,7 +243,7 @@
     "name": "Cipher : /2&//<|0",
     "composer": "Tetrajectory feat. Ctymax",
     "ill": "IvyTowers",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "5.0",
       "notes": 401,
@@ -276,7 +276,7 @@
     "name": "混乱-Confusion",
     "composer": "Only My Black Score",
     "ill": "L-sp4",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "4.0",
       "notes": 319,
@@ -309,7 +309,7 @@
     "name": "FULi AUTO SHOOTER",
     "composer": "MYUKKE.",
     "ill": "ViscerA & Psycholine",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "3.0",
       "notes": 141,
@@ -342,7 +342,7 @@
     "name": "HumaN",
     "composer": "SOTUI",
     "ill": "CH",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "3.0",
       "notes": 111,
@@ -375,7 +375,7 @@
     "name": "[PRAW]",
     "composer": "Bluewind",
     "ill": "老张",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "6.0",
       "notes": 413,
@@ -408,7 +408,7 @@
     "name": "Pixel Rebelz",
     "composer": "Normal1zer",
     "ill": "艾是Abby",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "4.5",
       "notes": 285,
@@ -441,7 +441,7 @@
     "name": "Cereris",
     "composer": "SunsetRay/NceS",
     "ill": "IvyTowers",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "5.5",
       "notes": 490,
@@ -474,7 +474,7 @@
     "name": "Non-Melodic Ragez (MUG Edit)",
     "composer": "Normal1zer",
     "ill": "cycats",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "5.5",
       "notes": 347,
@@ -507,7 +507,7 @@
     "name": "Sultan Rage",
     "composer": "MonstDeath",
     "ill": "笔记RE",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "4.0",
       "notes": 159,
@@ -540,7 +540,7 @@
     "name": "Class Memories",
     "composer": "Antistar feat. Ctymax",
     "ill": "xperz",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "6.0",
       "notes": 393,
@@ -573,7 +573,7 @@
     "name": "-SURREALISM-",
     "composer": "Itsuki",
     "ill": "喵n葵",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "5.0",
       "notes": 338,
@@ -606,7 +606,7 @@
     "name": "Bonus Time",
     "composer": "Megalo_PaleWhite",
     "ill": "笔记RE",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "3.5",
       "notes": 214,
@@ -639,7 +639,7 @@
     "name": "ENERGY SYNERGY MATRIX",
     "composer": "Tanchiky",
     "ill": "Karameru",
-    "chapter": "MainStoryLegacy",
+    "chapter": "Legacy",
     "ez": {
       "level": "5.5",
       "notes": 450,
@@ -681,7 +681,7 @@
     "name": "NYA!!! (Phigros ver.)",
     "composer": "FLuoRiTe/姜米條",
     "ill": "NEKO&海产",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "2.0",
       "notes": 122,
@@ -714,7 +714,7 @@
     "name": "JunXion Between Life And Death(VIP Mix)",
     "composer": "1N6Fs",
     "ill": "IvyTowers",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "3.0",
       "notes": 262,
@@ -747,7 +747,7 @@
     "name": "cryout",
     "composer": "Ju_E",
     "ill": "Haight",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "3.5",
       "notes": 221,
@@ -780,7 +780,7 @@
     "name": "Reimei",
     "composer": "影虎。",
     "ill": "英英英",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "6.5",
       "notes": 325,
@@ -813,7 +813,7 @@
     "name": "尊師 ～The Guru～",
     "composer": "rider",
     "ill": "1B",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "6.0",
       "notes": 386,
@@ -846,7 +846,7 @@
     "name": "Spasmodic",
     "composer": "姜米條☆颶風 ~ ♫元力上人♫",
     "ill": "昔璃☆暴雨 ~ ♫危難聖帝♫",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "8.2",
       "notes": 637,
@@ -888,7 +888,7 @@
     "name": "Leave All Behind",
     "composer": "rider",
     "ill": "笔记RE",
-    "chapter": "MainStory5",
+    "chapter": "Chapter 5",
     "ez": {
       "level": "3.0",
       "notes": 210,
@@ -921,7 +921,7 @@
     "name": "Colorful Days♪",
     "composer": "P4koo feat. つゆり花鈴",
     "ill": "Doro-nyong & Ratif",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "5.0",
       "notes": 156,
@@ -954,7 +954,7 @@
     "name": "micro.wav",
     "composer": "dandeless",
     "ill": "snake.ribs",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "6.0",
       "notes": 196,
@@ -987,7 +987,7 @@
     "name": "重生",
     "composer": "姜米條",
     "ill": "昔璃&TNiK",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "4.5",
       "notes": 354,
@@ -1020,7 +1020,7 @@
     "name": "NO ONE YES MAN",
     "composer": "MYUKKE.",
     "ill": "青鸟",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "7.0",
       "notes": 394,
@@ -1053,7 +1053,7 @@
     "name": "望影の方舟Six",
     "composer": "Se-U-Ra",
     "ill": "鲸弑",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "6.5",
       "notes": 276,
@@ -1086,7 +1086,7 @@
     "name": "Igallta",
     "composer": "Se-U-Ra",
     "ill": "Se-U-Ra",
-    "chapter": "MainStory6",
+    "chapter": "Chapter 6",
     "ez": {
       "level": "7.5",
       "notes": 414,
@@ -1128,7 +1128,7 @@
     "name": "Clock Paradox",
     "composer": "WyvernP",
     "ill": "汉堡",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "2.0",
       "notes": 188,
@@ -1161,7 +1161,7 @@
     "name": "Chronologika",
     "composer": "Hundotte",
     "ill": "幽灵星",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "3.5",
       "notes": 271,
@@ -1194,7 +1194,7 @@
     "name": "Nick of Time",
     "composer": "P4koo",
     "ill": "青鸟",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "6.0",
       "notes": 328,
@@ -1227,7 +1227,7 @@
     "name": "Chronomia",
     "composer": "Lime",
     "ill": "inukoro",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "4.5",
       "notes": 338,
@@ -1260,7 +1260,7 @@
     "name": "Chronos Collapse - La Campanella",
     "composer": "SunsetRay",
     "ill": "老张",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "4.5",
       "notes": 350,
@@ -1293,7 +1293,7 @@
     "name": "Rrhar'il",
     "composer": "Team Grimoire",
     "ill": "犀牛坨动画工坊",
-    "chapter": "MainStory7",
+    "chapter": "Chapter 7",
     "ez": {
       "level": "7.0",
       "notes": 446,
@@ -1335,7 +1335,7 @@
     "name": "Crave Wave",
     "composer": "LandRoot",
     "ill": "笔记RE",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "2.5",
       "notes": 177,
@@ -1368,7 +1368,7 @@
     "name": "The Chariot ~REVIIVAL~",
     "composer": "Attoclef",
     "ill": "翠冷兮",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "5.0",
       "notes": 520,
@@ -1401,7 +1401,7 @@
     "name": "Luminescence",
     "composer": "米虾Fomiki & 初云CLoudie",
     "ill": "子狼",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "5.5",
       "notes": 443,
@@ -1434,7 +1434,7 @@
     "name": "Retribution",
     "composer": "nm-y & Kry.exe",
     "ill": "NerSAN",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "6.0",
       "notes": 555,
@@ -1467,7 +1467,7 @@
     "name": "DESTRUCTION 3,2,1",
     "composer": "Normal1zer vs. Broken Nerdz",
     "ill": "rN",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "8.5",
       "notes": 1060,
@@ -1509,7 +1509,7 @@
     "name": "Distorted Fate",
     "composer": "Sakuzyo",
     "ill": "knife美工刀",
-    "chapter": "MainStory8",
+    "chapter": "Chapter 8",
     "ez": {
       "level": "8.1",
       "notes": 594,
@@ -2388,7 +2388,7 @@
     "name": "Another Me",
     "composer": "Neutral Moon",
     "ill": "IvyTowers",
-    "chapter": "RST",
+    "chapter": "Rising Sun Traxx",
     "ez": {
       "level": "5.5",
       "notes": 318,
@@ -2421,7 +2421,7 @@
     "name": "mechanted",
     "composer": "rareguy",
     "ill": "IvyTowers",
-    "chapter": "RST",
+    "chapter": "Rising Sun Traxx",
     "ez": {
       "level": "3.0",
       "notes": 184,
@@ -2454,7 +2454,7 @@
     "name": "life flashes before weeb eyes",
     "composer": "BilliumMoto",
     "ill": "百九十八",
-    "chapter": "RST",
+    "chapter": "Rising Sun Traxx",
     "ez": {
       "level": "6.5",
       "notes": 567,
@@ -2487,7 +2487,7 @@
     "name": "Break Through The Barrier",
     "composer": "lixound",
     "ill": "Xquid",
-    "chapter": "RST",
+    "chapter": "Rising Sun Traxx",
     "ez": {
       "level": "5.5",
       "notes": 419,
@@ -2529,7 +2529,7 @@
     "name": "Chronostasis",
     "composer": "黒皇帝",
     "ill": "Sand",
-    "chapter": "RST",
+    "chapter": "Rising Sun Traxx",
     "ez": {
       "level": "6.0",
       "notes": 291,
@@ -2826,7 +2826,7 @@
     "name": "GOODTEK",
     "composer": "EBIMAYO",
     "ill": "Ctymax feat. EBIMAYO",
-    "chapter": "Good",
+    "chapter": "GOOD",
     "ez": {
       "level": "5.0",
       "notes": 295,
@@ -2859,7 +2859,7 @@
     "name": "GOODBOUNCE",
     "composer": "EBIMAYO",
     "ill": "EBIMAYO",
-    "chapter": "Good",
+    "chapter": "GOOD",
     "ez": {
       "level": "7.5",
       "notes": 588,
@@ -2892,7 +2892,7 @@
     "name": "GOODWORLD",
     "composer": "EBIMAYO",
     "ill": "EBIMAYO",
-    "chapter": "Good",
+    "chapter": "GOOD",
     "ez": {
       "level": "3.0",
       "notes": 215,
@@ -2925,7 +2925,7 @@
     "name": "GOODFORTUNE",
     "composer": "EBIMAYO",
     "ill": "Ctymax",
-    "chapter": "Good",
+    "chapter": "GOOD",
     "ez": {
       "level": "7.5",
       "notes": 455,
@@ -2958,7 +2958,7 @@
     "name": "GOODRAGE",
     "composer": "EBIMAYO",
     "ill": "Ctymax feat. EBIMAYO",
-    "chapter": "Good",
+    "chapter": "GOOD",
     "ez": {
       "level": "5.0",
       "notes": 308,
@@ -3693,7 +3693,7 @@
     "name": "XING",
     "composer": "ginkiha",
     "ill": "打雷打人（青鸟 modified）",
-    "chapter": "MUSEDASH",
+    "chapter": "Muse Dash",
     "ez": {
       "level": "5.5",
       "notes": 310,
@@ -3726,7 +3726,7 @@
     "name": "Final Step!",
     "composer": "Lime",
     "ill": "谷地（青鸟 modified）",
-    "chapter": "MUSEDASH",
+    "chapter": "Muse Dash",
     "ez": {
       "level": "5.5",
       "notes": 355,
@@ -3759,7 +3759,7 @@
     "name": "Cthugha",
     "composer": "USAO",
     "ill": "谷地（青鸟 modified）",
-    "chapter": "MUSEDASH",
+    "chapter": "Muse Dash",
     "ez": {
       "level": "6.0",
       "notes": 378,
@@ -4908,7 +4908,7 @@
     "name": "Shadow",
     "composer": "姜米條&SumaiLight",
     "ill": "御坂果子",
-    "chapter": "JMT",
+    "chapter": "姜米條",
     "ez": {
       "level": "6.5",
       "notes": 393,
@@ -4950,7 +4950,7 @@
     "name": "心之所向",
     "composer": "姜米條",
     "ill": "笔记RE",
-    "chapter": "JMT",
+    "chapter": "姜米條",
     "ez": {
       "level": "4.0",
       "notes": 226,
@@ -4983,7 +4983,7 @@
     "name": "inferior",
     "composer": "姜米條",
     "ill": "群青kurara",
-    "chapter": "JMT",
+    "chapter": "姜米條",
     "ez": {
       "level": "7.0",
       "notes": 226,
@@ -5082,7 +5082,7 @@
     "name": "盏茗",
     "composer": "茶鸣拾贰律",
     "ill": "茶鸣拾贰律",
-    "chapter": "TEA12",
+    "chapter": "茶鸣拾贰律",
     "ez": {
       "level": "1.5",
       "notes": 83,
@@ -5115,7 +5115,7 @@
     "name": "青芽",
     "composer": "茶鸣拾贰律",
     "ill": "茶鸣拾贰律",
-    "chapter": "TEA12",
+    "chapter": "茶鸣拾贰律",
     "ez": {
       "level": "5.0",
       "notes": 366,
@@ -5388,7 +5388,7 @@
     "name": "瓷岁",
     "composer": "茶鸣拾贰律",
     "ill": "茶鸣拾贰律",
-    "chapter": "TEA12",
+    "chapter": "茶鸣拾贰律",
     "ez": {
       "level": "2.0",
       "notes": 120,
@@ -5421,7 +5421,7 @@
     "name": "Feast远东之宴",
     "composer": "茶鸣拾贰律",
     "ill": "茶鸣拾贰律",
-    "chapter": "TEA12",
+    "chapter": "茶鸣拾贰律",
     "ez": {
       "level": "6.5",
       "notes": 600,
@@ -5586,7 +5586,7 @@
     "name": "零號車輛",
     "composer": "seatrus",
     "ill": "2AI4wU4",
-    "chapter": "ParadigmReboot",
+    "chapter": "Paradigm: Reboot",
     "ez": {
       "level": "7.5",
       "notes": 594,
@@ -6015,7 +6015,7 @@
     "name": "S.A.T.E.L.L.I.T.E.",
     "composer": "かめりあ",
     "ill": "青鸟",
-    "chapter": "Camellia",
+    "chapter": "かめりあ",
     "ez": {
       "level": "5.0",
       "notes": 345,
@@ -6057,7 +6057,7 @@
     "name": "Dance with Silence",
     "composer": "かめりあ",
     "ill": "林语",
-    "chapter": "Camellia",
+    "chapter": "かめりあ",
     "ez": {
       "level": "7.0",
       "notes": 170,
@@ -6090,7 +6090,7 @@
     "name": "Labyrinth in Kowloon: Walled World",
     "composer": "かめりあ",
     "ill": "鲸弑",
-    "chapter": "Camellia",
+    "chapter": "かめりあ",
     "ez": {
       "level": "6.0",
       "notes": 491,
@@ -6123,7 +6123,7 @@
     "name": "Compute It With Some Devilish Alcoholic Steampunk Engines",
     "composer": "かめりあ",
     "ill": "山崎团",
-    "chapter": "Camellia",
+    "chapter": "かめりあ",
     "ez": {
       "level": "5.5",
       "notes": 330,
@@ -6156,7 +6156,7 @@
     "name": "+ERABY+E CONNEC+10N",
     "composer": "かめりあ",
     "ill": "猫箱Catbox feat. 祈莲",
-    "chapter": "Camellia",
+    "chapter": "かめりあ",
     "ez": {
       "level": "5.5",
       "notes": 492,
@@ -6852,7 +6852,7 @@
     "name": "Xenolith",
     "composer": "Tatsh",
     "ill": "2AI4wU4",
-    "chapter": "ParadigmReboot",
+    "chapter": "Paradigm: Reboot",
     "ez": {
       "level": "4.0",
       "notes": 202,
@@ -6885,7 +6885,7 @@
     "name": "Artificial Existence",
     "composer": "Jun Kuroda",
     "ill": "2AI4wU4",
-    "chapter": "ParadigmReboot",
+    "chapter": "Paradigm: Reboot",
     "ez": {
       "level": "3.5",
       "notes": 200,
@@ -6918,7 +6918,7 @@
     "name": "Indelible Scar",
     "composer": "Noah",
     "ill": "兜",
-    "chapter": "ParadigmReboot",
+    "chapter": "Paradigm: Reboot",
     "ez": {
       "level": "7.0",
       "notes": 316,
@@ -7110,7 +7110,7 @@
     "name": "幽世桔梗",
     "composer": "Capchii feat. まるもこ",
     "ill": "瀬名",
-    "chapter": "SHINOBISLASH",
+    "chapter": "SHINOBI SLASH",
     "ez": {
       "level": "4.5",
       "notes": 223,
@@ -7143,7 +7143,7 @@
     "name": "千紫万紅",
     "composer": "r0y vs. WABI",
     "ill": "中本ひょうり",
-    "chapter": "SHINOBISLASH",
+    "chapter": "SHINOBI SLASH",
     "ez": {
       "level": "4.5",
       "notes": 240,
@@ -7176,7 +7176,7 @@
     "name": "明鏡烈火",
     "composer": "M-UE vs. Reku Mochizuki",
     "ill": "中本ひょうり",
-    "chapter": "SHINOBISLASH",
+    "chapter": "SHINOBI SLASH",
     "ez": {
       "level": "6.0",
       "notes": 376,
@@ -7242,7 +7242,7 @@
     "name": "Cuvism³",
     "composer": "Fl00t vs Halv",
     "ill": "sikkari",
-    "chapter": "TAKUMI3",
+    "chapter": "TAKUMI³",
     "ez": {
       "level": "3.0",
       "notes": 222,
@@ -7284,7 +7284,7 @@
     "name": "iL-Artifact",
     "composer": "Link''0",
     "ill": "Fl00t",
-    "chapter": "TAKUMI3",
+    "chapter": "TAKUMI³",
     "ez": {
       "level": "5.5",
       "notes": 482,
@@ -7317,7 +7317,7 @@
     "name": "a truth seeker -Communication with Utopia will be lost-",
     "composer": "kuro",
     "ill": "rokopon",
-    "chapter": "TAKUMI3",
+    "chapter": "TAKUMI³",
     "ez": {
       "level": "6.5",
       "notes": 328,
@@ -7383,7 +7383,7 @@
     "name": "君往何处 (Quo Vadis)",
     "composer": "M2U",
     "ill": "LRAY (青鸟 modified)",
-    "chapter": "RhythmMaster",
+    "chapter": "节奏大师",
     "ez": {
       "level": "4.0",
       "notes": 208,
@@ -7416,7 +7416,7 @@
     "name": "暗夜苏醒 (REANIMATE)",
     "composer": "Warak",
     "ill": "MHK (青鸟 modified)",
-    "chapter": "RhythmMaster",
+    "chapter": "节奏大师",
     "ez": {
       "level": "5.0",
       "notes": 236,
@@ -7548,7 +7548,7 @@
     "name": "黄金之城 (GOLD TOWN)",
     "composer": "MEMME",
     "ill": "RM Design Team (青鸟 modified)",
-    "chapter": "RhythmMaster",
+    "chapter": "节奏大师",
     "ez": {
       "level": "2.0",
       "notes": 90,
@@ -7581,7 +7581,7 @@
     "name": "双重间谍 (Double Agent)",
     "composer": "Wav.AV",
     "ill": "RM Design Team (青鸟 modified)",
-    "chapter": "RhythmMaster",
+    "chapter": "节奏大师",
     "ez": {
       "level": "4.5",
       "notes": 346,
@@ -7614,7 +7614,7 @@
     "name": "幻影鬼魅 (PLEASE)",
     "composer": "R300K",
     "ill": "RM Design Team (青鸟 modified)",
-    "chapter": "RhythmMaster",
+    "chapter": "节奏大师",
     "ez": {
       "level": "5.5",
       "notes": 283,
@@ -8292,7 +8292,7 @@
     "name": "Aphrodite's Child (short ver.)",
     "composer": "RUQOA",
     "ill": "cala for Immaculée Sekai",
-    "chapter": "ImmaculeeSekai",
+    "chapter": "Immaculée Sekai",
     "ez": {
       "level": "3.5",
       "notes": 251,
@@ -8325,7 +8325,7 @@
     "name": "DevIAtiOn (short ver.)",
     "composer": "polysha",
     "ill": "cala for Immaculée Sekai",
-    "chapter": "ImmaculeeSekai",
+    "chapter": "Immaculée Sekai",
     "ez": {
       "level": "5.0",
       "notes": 222,
@@ -8358,7 +8358,7 @@
     "name": "NO x",
     "composer": "Juggernaut.",
     "ill": "cala for Immaculée Sekai",
-    "chapter": "ImmaculeeSekai",
+    "chapter": "Immaculée Sekai",
     "ez": {
       "level": "4.5",
       "notes": 198,
@@ -8424,7 +8424,7 @@
     "name": "Radiance",
     "composer": "Nhato",
     "ill": "SEGA (V17AMax modified)",
-    "chapter": "Ongeki",
+    "chapter": "オンゲキ",
     "ez": {
       "level": "3.5",
       "notes": 218,
@@ -8466,7 +8466,7 @@
     "name": "Diamond Dust",
     "composer": "Masahiro “Godspeed” Aoki",
     "ill": "SEGA (V17AMax modified)",
-    "chapter": "Ongeki",
+    "chapter": "オンゲキ",
     "ez": {
       "level": "5.0",
       "notes": 266,
@@ -8508,7 +8508,7 @@
     "name": "Stardust:RAY",
     "composer": "kanone vs. BlackY",
     "ill": "SEGA (V17AMax modified)",
-    "chapter": "Ongeki",
+    "chapter": "オンゲキ",
     "ez": {
       "level": "6.0",
       "notes": 399,
@@ -8799,7 +8799,7 @@
     "name": "アンビバレンス",
     "composer": "すりぃ×相沢",
     "ill": "SEGA (祈莲 modified)",
-    "chapter": "Maimai",
+    "chapter": "maimai",
     "ez": {
       "level": "4.0",
       "notes": 299,
@@ -8832,7 +8832,7 @@
     "name": "Komplexe",
     "composer": "雄之助 feat. Sennzai",
     "ill": "SEGA (祈莲 modified)",
-    "chapter": "Maimai",
+    "chapter": "maimai",
     "ez": {
       "level": "3.5",
       "notes": 238,
@@ -8865,7 +8865,7 @@
     "name": "sølips",
     "composer": "rintaro soma",
     "ill": "SEGA (祈莲 modified)",
-    "chapter": "Maimai",
+    "chapter": "maimai",
     "ez": {
       "level": "7.5",
       "notes": 363,
@@ -8907,7 +8907,7 @@
     "name": "QZKago Requiem",
     "composer": "t+pazolite",
     "ill": "SEGA (祈莲 modified)",
-    "chapter": "Maimai",
+    "chapter": "maimai",
     "ez": {
       "level": "7.0",
       "notes": 296,
@@ -9156,7 +9156,7 @@
     "name": "The Whole Rest",
     "composer": "KIVΛ",
     "ill": "©2025 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "5.0",
       "notes": 217,
@@ -9189,7 +9189,7 @@
     "name": "Cristalisia",
     "composer": "onoken",
     "ill": "©2025 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "4.0",
       "notes": 241,
@@ -9222,7 +9222,7 @@
     "name": "Hydra",
     "composer": "James Landino X Akira Complex",
     "ill": "©2025 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "6.0",
       "notes": 283,
@@ -9330,7 +9330,7 @@
     "name": "Alb",
     "composer": "Avans",
     "ill": "©2026 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "3.5",
       "notes": 242,
@@ -9363,7 +9363,7 @@
     "name": "Incyde",
     "composer": "YbeLL",
     "ill": "©2026 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "7.0",
       "notes": 521,
@@ -9396,7 +9396,7 @@
     "name": "彩",
     "composer": "MisoilePunch♪",
     "ill": "©2026 Rayark Inc. CYTUS II®",
-    "chapter": "Cytus2",
+    "chapter": "CYTUS II",
     "ez": {
       "level": "6.0",
       "notes": 378,
@@ -9561,7 +9561,7 @@
     "name": "Ποσειδών",
     "composer": "1112 vs. Star＊",
     "ill": "老张",
-    "chapter": "SideStory1",
+    "chapter": "Side story 1",
     "ez": {
       "level": "6.0",
       "notes": 533,
@@ -9603,7 +9603,7 @@
     "name": "WATER",
     "composer": "A-39/沙包P",
     "ill": "knife美工刀",
-    "chapter": "SideStory1",
+    "chapter": "Side story 1",
     "ez": {
       "level": "4.5",
       "notes": 338,
@@ -9636,7 +9636,7 @@
     "name": "Miracle Forest (VIP Mix)",
     "composer": "Rinth_live",
     "ill": "L-sp4",
-    "chapter": "SideStory1",
+    "chapter": "Side story 1",
     "ez": {
       "level": "3.0",
       "notes": 323,
@@ -9669,7 +9669,7 @@
     "name": "MOBILYS",
     "composer": "Dachs",
     "ill": "わっふゑ",
-    "chapter": "SideStory1",
+    "chapter": "Side story 1",
     "ez": {
       "level": "5.5",
       "notes": 311,
@@ -9702,7 +9702,7 @@
     "name": "Lyrith -迷宮リリス-",
     "composer": "ユメミド",
     "ill": "何呵",
-    "chapter": "SideStory1",
+    "chapter": "Side story 1",
     "ez": {
       "level": "5.0",
       "notes": 248,
@@ -9753,7 +9753,7 @@
     "name": "Demiurge",
     "composer": "Rabpit",
     "ill": "青鸟",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "1.5",
       "notes": 100,
@@ -9786,7 +9786,7 @@
     "name": "Demonkin",
     "composer": "Forged Reigns",
     "ill": "Jeffery",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "4.5",
       "notes": 426,
@@ -9819,7 +9819,7 @@
     "name": "Re_Nascence (Psystyle Ver.) ",
     "composer": "Rinth_live",
     "ill": "Tsuioku",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "5.5",
       "notes": 378,
@@ -9852,7 +9852,7 @@
     "name": "Ark",
     "composer": "kanoryo",
     "ill": "MOAI WORKS",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "3.5",
       "notes": 290,
@@ -9894,7 +9894,7 @@
     "name": "After Dawn",
     "composer": "S9ryne",
     "ill": "月亮酱",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "3.0",
       "notes": 194,
@@ -9927,7 +9927,7 @@
     "name": "INFiNiTE ENERZY -Overdoze-",
     "composer": "Reku Mochizuki",
     "ill": "knife美工刀",
-    "chapter": "SideStory2",
+    "chapter": "Side story 2",
     "ez": {
       "level": "6.5",
       "notes": 333,
@@ -9969,7 +9969,7 @@
     "name": "Khalid",
     "composer": "Dolphin",
     "ill": "HAZUQU",
-    "chapter": "SideStory3",
+    "chapter": "Side story 3",
     "ez": {
       "level": "4.0",
       "notes": 190,
@@ -10002,7 +10002,7 @@
     "name": "Quantum Hyperspace",
     "composer": "D_AAN",
     "ill": "sa1t",
-    "chapter": "SideStory3",
+    "chapter": "Side story 3",
     "ez": {
       "level": "6.0",
       "notes": 443,
@@ -10035,7 +10035,7 @@
     "name": "Freaky Undulations ~Noble Knights of Tune~",
     "composer": "Jehezukiel + KURORAK",
     "ill": "PEZZ feat. 祈莲 & CattoHato",
-    "chapter": "SideStory3",
+    "chapter": "Side story 3",
     "ez": {
       "level": "7.0",
       "notes": 292,
@@ -10068,7 +10068,7 @@
     "name": "PANIC PARADISE",
     "composer": "DJ SHION.Y",
     "ill": "百九十八",
-    "chapter": "SideStory3",
+    "chapter": "Side story 3",
     "ez": {
       "level": "6.5",
       "notes": 367,
@@ -10110,7 +10110,7 @@
     "name": "Re：End of a Dream",
     "composer": "uma vs. モリモリあつし",
     "ill": "masiro vs. adaptor",
-    "chapter": "SideStory3",
+    "chapter": "Side story 3",
     "ez": {
       "level": "7.5",
       "notes": 421,
@@ -10152,7 +10152,7 @@
     "name": "心の記憶",
     "composer": "A-39/沙包P",
     "ill": "爱39的Konya",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "3.5",
       "notes": 311,
@@ -10185,7 +10185,7 @@
     "name": "Spotlight",
     "composer": "Ardolf",
     "ill": "NerSAN",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "4.5",
       "notes": 288,
@@ -10218,7 +10218,7 @@
     "name": "NightTheater",
     "composer": "わかどり",
     "ill": "青鸟",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "4.0",
       "notes": 256,
@@ -10251,7 +10251,7 @@
     "name": "Ramification",
     "composer": "rareguy & Reina",
     "ill": "cokeAnut",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "5.0",
       "notes": 222,
@@ -10284,7 +10284,7 @@
     "name": "Der Richter",
     "composer": "Ωμεγα",
     "ill": "森灵",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "5.5",
       "notes": 310,
@@ -10326,7 +10326,7 @@
     "name": "ATHAZA",
     "composer": "LeaF",
     "ill": "御坂果子",
-    "chapter": "SideStory4",
+    "chapter": "Side story 4",
     "ez": {
       "level": "8.6",
       "notes": 479,
